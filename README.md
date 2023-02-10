@@ -5,7 +5,12 @@
 <br/>
 <p align="center"> 
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=aura"/>
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=aura"/> -->
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=dark"/>
+   
+   
+   
 </p>
 
 <br/>
@@ -16,7 +21,7 @@
 
 </br>
 <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilk2002&layout=compact&theme=aura"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilk2002&layout=compact&theme=dark"/>
 </p>
 
 </br>
