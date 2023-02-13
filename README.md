@@ -8,7 +8,7 @@
 
 <!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=aura"/> -->
    
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=midnight-purple"/>
    
    
    
@@ -22,7 +22,7 @@
 
 </br>
 <p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patilk2002&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilk2002&layout=compact&theme=midnight-purple"/>
 </p>
 
 </br>
