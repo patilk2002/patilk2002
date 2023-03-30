@@ -1,7 +1,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <h1 align="center">Hi 👋, I'm Kiran Patil</h1>
 
-<h4 align="center"> Full Stack Web Developer | AI ML Enthusiast | UI/UX Designer | VJTI CSE '24 </h4>
+<h4 align="center"> Full Stack Developer | AI ML Enthusiast | VJTI CSE '24 </h4>
 
 <br/>
 <p align="center"> 
