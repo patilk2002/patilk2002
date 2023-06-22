@@ -11,7 +11,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilk2002&show_icons=true&theme=midnight-purple"/>
    
    
-   
 </p>
 
 <br/>
